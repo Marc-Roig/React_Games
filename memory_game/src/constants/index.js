@@ -1,0 +1,1 @@
+export { cardImages as default } from './cardImages';
