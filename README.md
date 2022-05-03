@@ -13,7 +13,9 @@ So props to them!
 
 |  Topics  | GIF |  Summary  |
 | :------: | --- | :-------: |
-|<a href=""> Memory Game</a> | <a href=""  target="_blank"> <img border="0" alt="memoryGame" src="./assets/memory_game.gif" width="400" height="400"> </a> | React Memory Game.|
+| [![Netlify Status](https://api.netlify.com/api/v1/badges/37054337-12c8-449d-a8e1-c4d84f41df19/deploy-status)](https://app.netlify.com/sites/memory-game-mroig/deploys) <br/> <a href="https://memory-game-mroig.netlify.app/"> Memory Game</a> | <a href="https://memory-game-mroig.netlify.app/"  target="_blank"> <img border="0" alt="memoryGame" src="./assets/memory_game.gif" width="400" height="400"> </a> | React Memory Game. 
+
+|
 
 
 </center>
